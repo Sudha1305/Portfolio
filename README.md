@@ -2,7 +2,8 @@
 
 Personal portfolio website showcasing my projects, skills, education, certifications, and experience.
 
-### 🌐 Live Website: Portfolio(portfolio-kattamanchi-gnanasudhama.vercel.app)  
+### 🌐 Live Website
+portfolio-kattamanchi-gnanasudhama.vercel.app 
 
 ## Technologies Used
 
